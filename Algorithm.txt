@@ -1,0 +1,42 @@
+begin
+if 10 > 20
+write helloworld
+read int *a
+read char string1
+equation1 <- a+b+c*d-e/f
+endif
+read array elementlist1 10
+if a < 10
+read int er
+endif
+else if a > 20
+endelseif
+else
+read float b
+endelse
+a <- b+c
+while a < 23
+k[i] <- a[i]+a
+p[o] <- a[j]+1234
+endwhile
+for i = 1 to 10
+a[i] <- a+1
+r <- elementlist1[i]
+endfor
+for k = 20 to 1
+b[k] <- c[k]
+c[k][p] <- 23
+g[ufxg45] <- v[k]
+endfor
+cd <- myfunction(a, fdg)
+s[uy] <- fdhvkj(ghj, hj678)
+myfunction2(fhgjk, ghjkl)
+end
+function returns int* myfunction(rty657, gjhk678, ghj567)
+read char hjk
+return 0
+end
+function returns char myfunction2(hjkl)
+read array elementlist1 10
+return hjkl9
+end
